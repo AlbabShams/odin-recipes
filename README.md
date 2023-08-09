@@ -1,2 +1,2 @@
 # odin-recipes
-First odin project
+A simple recipes page using basic html. 
